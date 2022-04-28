@@ -16,4 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <!-- <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3> -->
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hello%20&height=300&fontSize=100&textBg=true&animation=fadeIn)
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hello%20&height=300&fontSize=100&textBg=true&animation=scaleIn)
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hello%20&height=300&fontSize=100&textBg=true&animation=blink)
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hello%20&height=300&fontSize=100&textBg=true&animation=blinking)
+
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hello%20&height=300&fontSize=100&textBg=true&animation=twinkling)
