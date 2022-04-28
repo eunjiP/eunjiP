@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjiP&layout=compact)](https://github.com/eunjiP/github-readme-stats)
 
