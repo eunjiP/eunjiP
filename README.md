@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <!-- <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3> -->
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=eunjiP%20GitHub%20Passion%20developer%20&fontAlign=30&descAlign=80&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=eunjiP%20GitHub%20Passion%20developer%20&fontAlign=30&descAlign=30&descAlignY=65&animation=twinkling)
