@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hello%20&height=300&fontSize=100&textBg=true&animation=twinkling&fontAlign=30)
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=eunjiP%20GitHub%20Profile%20&fontAlign=70&descAlign=83&descAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=eunjiP%20GitHub%20Profile%20&fontAlign=70&descAlign=83&descAlignY=65&animation=twinkling)
