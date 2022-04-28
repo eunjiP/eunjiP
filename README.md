@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 
 ### Interest <img align='right' src="https://github-readme-stats.vercel.app/api?username=eunjiP" height="180"> 
-- &#128202; Data Analysis and Data Visualization
+- &#128202; 
 - &#128187; Machine Learning
