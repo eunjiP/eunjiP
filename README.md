@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=eunjiP" height="180"> 
 
-
-### Interest <img align='right' src="https://github-readme-stats.vercel.app/api?username=eunjiP" height="180"> 
+### Interest 
 - &#128187; Full-stack Learning
 
 
