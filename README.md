@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=eunjiP%20GitHub%20Passion%20developer%20&fontAlign=30&descAlign=30&descAlignY=65&animation=twinkling)
 
-<!-- <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3> -->
 
 
 ### Interest <img align='right' src="https://github-readme-stats.vercel.app/api?username=eunjiP" height="180"> 
 - &#128187; Full-stack Learning
 
+
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
