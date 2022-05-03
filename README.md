@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ### Interest <img align='right' src="https://github-readme-stats.vercel.app/api?username=eunjiP" height="180"> 
 - &#128187; Full-stack Learning
 
-
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
