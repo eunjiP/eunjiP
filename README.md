@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=eunjiP%20GitHub%20Passion%20developer%20&fontAlign=30&descAlign=30&descAlignY=65&animation=twinkling)
 
 <h3 align="center">:hatching_chick: Who Am I :hatching_chick:</h3>
-- 🌱 I am currently studying the full-stack course.
-- 🎓 I majored in clinical pathology and my dream is to be a back-end developer.
-- 👍 Since I started late, I'm doing my best
+<div>* 🌱 I am currently studying the full-stack course.</div>
+<div>* 🎓 I majored in clinical pathology and my dream is to be a back-end developer.</div>
+<div>* 👍 Since I started late, I'm doing my best</div>
 
 <h3 align="center"><b>🛠 The skills I learned 🛠</b></h3>
 <p align="center">
