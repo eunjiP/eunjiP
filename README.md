@@ -15,18 +15,25 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=eunjiP%20GitHub%20Passion%20developer%20&fontAlign=30&descAlign=30&descAlignY=65&animation=twinkling)
 
- ## 📝 I'm working hard to solve the problem 📝
+ ### 📝 I'm working hard to solve the problem 📝
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dae4227)](https://solved.ac/profile/dae4227)
  <img src="http://mazandi.herokuapp.com/api?handle=dae4227&theme=cold"/>
  
 ***
 
+### Who Am I
+- 🌱 I am currently studying the full-stack course.
+- 🎓 I majored in clinical pathology and my dream is to be a back-end developer.
+- 👍 Since I started late, I'm doing my best
+
+***
+
 ### Interest 
 - &#128187; Full-stack Learning
 
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b>🛠 The skills I learned 🛠</b></h3>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
