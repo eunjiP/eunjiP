@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eunjiP&show_icons=true&theme=radical&hide_border=true" alt="eunji's github stats" /><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjiP&layout=compact&theme=tokyonight&hide_border=true" /></a></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
+
 ***
 
 ### Interest 
