@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=eunjiP%20GitHub%20Passion%20developer%20&fontAlign=30&descAlign=30&descAlignY=65&animation=twinkling)
 
+<br>
+
 <h3 align="center">:hatching_chick: Who Am I :hatching_chick:</h3>
 
 * 🌱 I am currently studying the full-stack course.
 * 🎓 I majored in clinical pathology and my dream is to be a back-end developer.
 * 👍 Since I started late, I'm doing my best:exclamation:
 
-<br>
 <br>
 
 <h3 align="center"><b>🛠 The skills I learned 🛠</b></h3>
@@ -35,15 +36,19 @@ Here are some ideas to get you started:
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=PHP&logoColor=white"/>
  </p>
-
+ 
+<br>
 ***
+<br>
 
 <h3 align="center"> 📝 I'm working hard to solve the problem 📝 </h3>
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dae4227)](https://solved.ac/profile/dae4227)
  <img src="http://mazandi.herokuapp.com/api?handle=dae4227&theme=cold"/>
  
+<br> 
 ***
+<br>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eunjiP&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjiP&layout=compact&theme=flag-india&hide_border=true" /></a> |
 | ------------- | ------------- |
