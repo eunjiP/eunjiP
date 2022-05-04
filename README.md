@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dae4227)](https://solved.ac/profile/dae4227)
 
 
-<img src="http://mazandi.herokuapp.com/api?handle={dae4227}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=dae4227&theme=warm"/>
 
 
 ### Interest 
