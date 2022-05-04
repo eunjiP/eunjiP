@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eunjiP&show_icons=true&theme=radical&hide_border=true" alt="eunji's github stats" /><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjiP&layout=compact&theme=tokyonight&hide_border=true" /></a></a>
 
-<p>
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dae4227)](https://solved.ac/profile/dae4227)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dae4227)](https://solved.ac/profile/dae4227)
+<span>
  <img src="http://mazandi.herokuapp.com/api?handle=dae4227&theme=cold"/>
-</p>
+ </span>
+
 
 ### Interest 
 - &#128187; Full-stack Learning
