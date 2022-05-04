@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=eunjiP%20GitHub%20Passion%20developer%20&fontAlign=30&descAlign=30&descAlignY=65&animation=twinkling)
 
-***
 
-<a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=dae4227"><img align="center" src="https://solved.ac/profile/dae4227&layout=compact&theme=flag-india&hide_border=true" /></a>
 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dae4227)](https://solved.ac/profile/dae4227)
+ [![Solved.ac Profile align="center"](http://mazassumnida.wtf/api/v2/generate_badge?boj=dae4227)](https://solved.ac/profile/dae4227)
  <img src="http://mazandi.herokuapp.com/api?handle=dae4227&theme=cold"/>
 
 
