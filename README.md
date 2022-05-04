@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dae4227)](https://solved.ac/dae4227/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjiP)](https://github.com/eunjiP/github-readme-stats)
+
 
 ### Interest 
 - &#128187; Full-stack Learning
