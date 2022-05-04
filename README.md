@@ -38,7 +38,9 @@ Here are some ideas to get you started:
  </p>
  
 <br>
+
 ***
+
 <br>
 
 <h3 align="center"> 📝 I'm working hard to solve the problem 📝 </h3>
@@ -47,7 +49,9 @@ Here are some ideas to get you started:
  <img src="http://mazandi.herokuapp.com/api?handle=dae4227&theme=cold"/>
  
 <br> 
+
 ***
+
 <br>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eunjiP&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjiP&layout=compact&theme=flag-india&hide_border=true" /></a> |
