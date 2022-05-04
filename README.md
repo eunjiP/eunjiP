@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 * 🎓 I majored in clinical pathology and my dream is to be a back-end developer.
 * 👍 Since I started late, I'm doing my best:exclamation:
 
+<br>
+<br>
+
 <h3 align="center"><b>🛠 The skills I learned 🛠</b></h3>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
