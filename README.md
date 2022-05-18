@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 * 🌱 I am currently studying the full-stack course.
 * 🎓 I majored in clinical pathology and my dream is to be a back-end developer.
-* 👍 Since I started late, I'm doing my best:exclamation:
+* 👍 I started late, but I'm doing my best right now:exclamation:
 
 <br>
 
