@@ -50,6 +50,9 @@ Here are some ideas to get you started:
  
 <br> 
 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pelshad)](https://solved.ac/profile/pelshad)
+ <img src="http://mazandi.herokuapp.com/api?handle=pelshad&theme=cold"/>
+
 ***
 
 <br>
