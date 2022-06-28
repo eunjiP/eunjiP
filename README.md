@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center"><b>:pencil2: The skills I learned :pencil2:</b></h3>
+<h3 align="center"><b>:memo: The skills I learned :memo:</b></h3>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
 <img alt="Java" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=flat-square&logo=Java&logoColor=white"/>
