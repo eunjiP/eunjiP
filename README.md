@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center"><b>🛠 The skills I learned 🛠</b></h3>
+<h3 align="center"><b>:pencil2: The skills I learned :pencil2:</b></h3>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/>
+<img alt="Java" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=flat-square&logo=Java&logoColor=white"/>
 <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=flat-square&logo=MariaDB&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -37,6 +37,14 @@ Here are some ideas to get you started:
 <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=PHP&logoColor=white"/>
  </p>
  
+<h3 align="center"><b>🛠 Tool 🛠</b></h3>
+<p align="center">
+<img alt="VSC" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
+<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
+<img alt="Font Awesome" src="https://img.shields.io/badge/Font Awesome-528DD7?style=flat-square&logo=Font Awesome&logoColor=white">
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+</p>
 <br>
 
 ***
