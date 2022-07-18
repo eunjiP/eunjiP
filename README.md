@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
 <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=flat-square&logo=MariaDB&logoColor=white"/>
-<img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js.svg?&style=flat-square&logo=Vue.js&logoColor=white"/>
+<img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat-square&logo=Vue.js&logoColor=white"/>
 </p>
 <br>
 
