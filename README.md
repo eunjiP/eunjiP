@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=eunjiP%20GitHub%20Passion%20developer%20&fontAlign=30&descAlign=30&descAlignY=65&animation=twinkling)
 
-<br>
+<br> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo&size=50&duration=3000&color=75C4CA&background=FFF7ECCD&center=true&vCenter=true&width=500&height=200&lines=Welcome%2C+eunjiP+Github;I'm++passion+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=50&duration=4000&color=75C4CA&background=FFF7ECCD&center=true&vCenter=true&width=900&height=200&lines=Welcome%2C+eunjiP+Github;My+dream+is+to+become+a+passionate+developer)](https://git.io/typing-svg)
 
 <br>
 
