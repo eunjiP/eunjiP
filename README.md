@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&enter=true&width=600&height=53&lines=%E3%80%80%E3%80%80Welcome%2C+eunjiP+GitHub+Passion+Developer+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo&size=50&duration=3000&color=75C4CA&background=FFF7ECCD&center=true&vCenter=true&width=500&height=200&lines=Welcome%2C+eunjiP+Github;I'm++passion+developer)](https://git.io/typing-svg)
 
 <br>
 
