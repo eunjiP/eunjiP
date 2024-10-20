@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">:hatching_chick: Who Am I :hatching_chick:</h3>
 
-* 🌱 I am currently studying the full-stack course.
+* 🌱 Currently studying full stack courses and working as a PHP developer.
 * 🎓 I majored in clinical pathology and my dream is to be a back-end developer.
 * 👍 I started late, but I'm doing my best right now:exclamation:
 
