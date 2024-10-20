@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"><b>:books: The skills I learned :books:</b></h3>
 <p align="center">
+<img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=PHP&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
 <img alt="Java" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=flat-square&logo=Java&logoColor=white"/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
@@ -38,7 +39,6 @@ Here are some ideas to get you started:
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-<img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=PHP&logoColor=white"/>
 <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat-square&logo=Vue.js&logoColor=white"/>
 <img alt="Laravel" src ="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=flat-square&logo=Laravel&logoColor=white"/>
  </p>
